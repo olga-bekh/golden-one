@@ -1,0 +1,27 @@
+
+.icons {
+    border: 3px solid #fed136;
+    border-radius: 50%;
+    width: 68px;
+    height: 67px;
+    color: #fed136;
+    
+}
+.card-p {
+    width: 291px;
+}
+.social {
+    border: 3px solid #222222;
+    border-radius: 50%;
+    width: 41px;
+    height: 41px;
+    color: #222222;
+    background-color: #f9f9f9;   
+}
+.social-footer {
+    border-radius: 50%;
+    width: 41px;
+    height: 41px;
+    color: #f9f9f9;
+    background-color: #222222;
+}
